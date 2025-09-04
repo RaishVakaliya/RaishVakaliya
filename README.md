@@ -2,7 +2,7 @@
 <h3 align="center">FULL STACK Developer | From Idea to Deployment</h3>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg"  />
 </div>
 
 <div align="center">
