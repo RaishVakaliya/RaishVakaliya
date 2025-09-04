@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raishvakaliya&label=Profile%20views&color=0e75b6&style=flat" alt="raishvakaliya" /> </p>
 
+<div align="center">
+  
 - 🔭 I’m currently working on **What & Where**
 
 - 🌱 I’m currently learning **Docker**
@@ -16,6 +18,7 @@
 - 📫 How to reach me **vakaliyaraish7@gmail.com**
 
 - ⚡ Fun fact **I enjoy chai more than coffee ☕.**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
