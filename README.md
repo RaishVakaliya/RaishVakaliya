@@ -29,9 +29,9 @@
 
 | | | | | | | |
 |---|---|---|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=ts" height="60" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="60" /> | <img src="https://skillicons.dev/icons?i=py" height="60" /> | <img src="https://skillicons.dev/icons?i=c" height="60" /> | <img src="https://skillicons.dev/icons?i=cpp" height="60" /> | <img src="https://skillicons.dev/icons?i=css" height="60" /> | <img src="https://skillicons.dev/icons?i=express" height="60" /> |
+| <img src="https://skillicons.dev/icons?i=ts" height="60" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="60" /> | <img src="https://skillicons.dev/icons?i=py" height="60" /> | <img src="https://skillicons.dev/icons?i=c" height="60" /> | <img src="https://skillicons.dev/icons?i=cpp" height="60" /> | <img src="https://skillicons.dev/icons?i=react" height="60" /> | <img src="https://skillicons.dev/icons?i=express" height="60" /> |
 | <img src="https://skillicons.dev/icons?i=firebase" height="60" /> | <img src="https://skillicons.dev/icons?i=git" height="60" /> | <img src="https://skillicons.dev/icons?i=github" height="60" /> | <img src="https://skillicons.dev/icons?i=html" height="60" /> | <img src="https://skillicons.dev/icons?i=js" height="60" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="60" /> | <img src="https://skillicons.dev/icons?i=netlify" height="60" /> |
-| <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> | <img src="https://skillicons.dev/icons?i=postman" height="60" /> | <img src="https://skillicons.dev/icons?i=vite" height="60" /> | <img src="https://skillicons.dev/icons?i=vercel" height="60" /> | <img src="https://skillicons.dev/icons?i=react" height="60" /> | <img src="https://skillicons.dev/icons?i=electron" height="60" /> |   |
+| <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> | <img src="https://skillicons.dev/icons?i=postman" height="60" /> | <img src="https://skillicons.dev/icons?i=vite" height="60" /> | <img src="https://skillicons.dev/icons?i=vercel" height="60" /> | <img src="https://skillicons.dev/icons?i=css" height="60" /> | <img src="https://skillicons.dev/icons?i=electron" height="60" /> |   <img src="https://skillicons.dev/icons?i=supabase" height="60" /> |   |
 
 </div>
 
@@ -41,17 +41,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raishvakaliya&show_icons=true&locale=en" alt="raishvakaliya" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishvakaliya&" alt="raishvakaliya" /></p>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-</div>
 
 ###
 
