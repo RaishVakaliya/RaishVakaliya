@@ -2,7 +2,9 @@
 <h3 align="center">FULL STACK Developer | From Idea to Deployment</h3>
 
 <div align="center">
-  <img height="150"  className="w-36 h-36 rounded-full" src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg"  />
+  <img src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg" 
+     height="150" 
+     style="border-radius: 50%;" />
 </div>
 
 <div align="center">
