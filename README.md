@@ -32,6 +32,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="python logo"  />
+  <img width="12" />
 </div>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&locale=en&layout=compact" alt="raishvakaliya" /></p>
