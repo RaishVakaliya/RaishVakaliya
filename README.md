@@ -9,19 +9,19 @@
 
 <div align="center">
 
-- 🔭 I’m currently working on **What & Where**
+🔭 I’m currently working on **What & Where**
 
-- 🌱 I’m currently learning **Docker**
+🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **innovative hackathon ideas.**
+👯 I’m looking to collaborate on **innovative hackathon ideas.**
 
-- 🤝 I’m looking for help with **improving my communication skills.**
+🤝 I’m looking for help with **improving my communication skills.**
 
-- 💬 Ask me about **React**
+💬 Ask me about **React**
 
-- 📫 How to reach me **vakaliyaraish7@gmail.com**
+📫 How to reach me **vakaliyaraish7@gmail.com**
 
-- ⚡ Fun fact **I enjoy chai more than coffee ☕.**
+⚡ Fun fact **I enjoy chai more than coffee ☕.**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
