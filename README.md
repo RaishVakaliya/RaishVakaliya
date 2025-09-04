@@ -21,7 +21,7 @@
 
 📫 How to reach me **vakaliyaraish7@gmail.com**
 
-⚡ Fun fact **I enjoy chai more than coffee ☕.**
+⚡ **I enjoy chai more than coffee ☕.**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
