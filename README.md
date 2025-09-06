@@ -1,4 +1,4 @@
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/8497c418-b0e6-4513-aa28-b54463c2cf55" /><h1 align="center">Hi there I'm Raish Vakaliya 👋</h1>
+<h1 align="center">Hi there I'm Raish Vakaliya 👋</h1>
 <h3 align="center">FULL STACK Developer | From Idea to Deployment</h3>
 
 <div align="center">
