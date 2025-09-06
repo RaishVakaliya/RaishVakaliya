@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Raish Vakaliya 👋</h1>
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/8497c418-b0e6-4513-aa28-b54463c2cf55" /><h1 align="center">Hi there I'm Raish Vakaliya 👋</h1>
 <h3 align="center">FULL STACK Developer | From Idea to Deployment</h3>
 
 <div align="center">
@@ -32,7 +32,7 @@
 | <img src="https://skillicons.dev/icons?i=ts" height="60" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="60" /> | <img src="https://skillicons.dev/icons?i=py" height="60" /> | <img src="https://skillicons.dev/icons?i=c" height="60" /> | <img src="https://skillicons.dev/icons?i=cpp" height="60" /> | <img src="https://skillicons.dev/icons?i=react" height="60" /> | <img src="https://skillicons.dev/icons?i=express" height="60" /> |
 | <img src="https://skillicons.dev/icons?i=firebase" height="60" /> | <img src="https://skillicons.dev/icons?i=git" height="60" /> | <img src="https://skillicons.dev/icons?i=github" height="60" /> | <img src="https://skillicons.dev/icons?i=html" height="60" /> | <img src="https://skillicons.dev/icons?i=js" height="60" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="60" /> | <img src="https://skillicons.dev/icons?i=netlify" height="60" /> |
 | <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> | <img src="https://skillicons.dev/icons?i=postman" height="60" /> | <img src="https://skillicons.dev/icons?i=vite" height="60" /> | <img src="https://skillicons.dev/icons?i=vercel" height="60" /> | <img src="https://skillicons.dev/icons?i=css" height="60" /> | <img src="https://skillicons.dev/icons?i=electron" height="60" /> | <img src="https://skillicons.dev/icons?i=supabase" height="60" /> |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnemsqT5cxd1Vgy1let9gHNy8dEBJmOSs1M3f9wsUQHYdRLNfY5uakHCacZUSBdtqIFno&usqp=CAU" height="60" /> | <img src="https://avatars.githubusercontent.com/u/81530787?s=280&v=4" height="60" /> |  |  |  |  |  |
+| <img src="https://avatars.githubusercontent.com/u/49538330?s=280&v=4" height="60" /> | <img src="https://avatars.githubusercontent.com/u/81530787?s=280&v=4" height="60" /> |  |  |  |  |  |
 
 </div>
 
