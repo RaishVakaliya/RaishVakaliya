@@ -17,8 +17,6 @@
 
 🤝 I’m looking for help with **improving my communication skills.**
 
-💬 Ask me about **React**
-
 📫 How to reach me **vakaliyaraish7@gmail.com**
 
 ⚡ **I enjoy chai more than coffee ☕.**
