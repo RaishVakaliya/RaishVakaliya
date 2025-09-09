@@ -34,18 +34,22 @@
 
 </div>
 
+###
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&border_radius=5&locale=en&border_radius=5&hide_border=true" height="170" alt="top languages" />
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&border_radius=5&locale=en&border_radius=5" alt="top languages" /></p>
+###
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raishvakaliya&show_icons=true&locale=en&border_radius=5" alt="raishvakaliya" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishvakaliya&theme=dracula&border_radius=5" alt="streak graph" /></p>
+<div align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raishvakaliya&show_icons=true&locale=en&theme=dracula&border_radius=5&hide_border=true" height="170" alt="raishvakaliya" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
