@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&border_radius=5&locale=en&border_radius=5&hide_border=true" height="170" alt="top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="170" alt="top languages" />
 </div>
 
 ###
