@@ -42,12 +42,6 @@
 
 ###
 
-<div align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raishvakaliya&show_icons=true&locale=en&theme=dracula&border_radius=5&hide_border=true" height="170" alt="raishvakaliya" />
-</div>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
