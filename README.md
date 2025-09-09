@@ -36,11 +36,11 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&locale=en&layout=compact&theme=dracula&border_radius=5&locale=en" alt="top languages" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&border_radius=5&locale=en&border_radius=5" alt="top languages" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raishvakaliya&show_icons=true&locale=en&border_radius=5" alt="raishvakaliya" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishvakaliya&theme=dracula" alt="streak graph" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raishvakaliya&theme=dracula&border_radius=5" alt="streak graph" /></p>
 
 ###
 
