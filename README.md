@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg" 
      height="150" 
-     style="border-radius: 50%;" />
+     style="border-radius: 70%;" />
 </div>
 
 <div align="center">
