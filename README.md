@@ -19,7 +19,7 @@ I’m looking for help with **improving my communication skills.**
 
 How to reach me **vakaliyaraish7@gmail.com**
 
-⚡ **I enjoy chai more than coffee ☕.**
+**I enjoy chai more than coffee ☕.**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
