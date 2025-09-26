@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hi there, I'm <span style="background: linear-gradient(90deg, #00C9A7, #92FE9D); -webkit-background-clip: text; color: transparent;">Raish Vakaliya</span> 👋
+  ✨ Hi there, I'm <strong>Raish Vakaliya</strong> 👋 ✨
 </h1>
-
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
