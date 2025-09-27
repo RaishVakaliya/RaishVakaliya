@@ -14,7 +14,7 @@
      style="border-radius: 50%;" />
 </div>
 
-<div align="center">
+<div align="start">
 
 I’m currently working on **What & Where**
 
