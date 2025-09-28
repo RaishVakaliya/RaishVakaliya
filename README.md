@@ -16,7 +16,7 @@
 
 <div align="center">
 
-I’m currently working on **WaW**
+I’m currently working on **What & Where**
 
 I’m currently learning **Docker**
 
