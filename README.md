@@ -24,7 +24,7 @@ I’m looking to collaborate on **innovative hackathon ideas.**
 
 I’m looking for help with **improving my communication skills.**
 
-How to reach me **raishvakaliya@gmail.com**
+How to reach me **vakaliyaraish7@gmail.com**
 
 **I enjoy chai more than coffee ☕.**
 </div>
