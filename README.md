@@ -11,8 +11,8 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg" 
      height="170" 
-    width="150"
-     style="border-radius: 50%;" />
+    width="180"
+     style="border-radius: 80%;" />
 </div>
 
 <div align="center">
