@@ -18,7 +18,7 @@
 
 I’m currently working on **What & Where**
 
-I’m currently learning **Docker**
+I’m currently learning **Docker & n8n**
 
 I’m looking to collaborate on **innovative hackathon ideas.**
 
