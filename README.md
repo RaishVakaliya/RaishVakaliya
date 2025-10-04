@@ -20,7 +20,7 @@ I’m currently working on **What and Where**
 
 I’m currently learning **Docker & n8n**
 
-I’m looking to collaborate on **innovative hackathon ideas.**
+I’m looking to collaborate on **Innovative Hackathon Ideas.**
 
 I’m looking for help with **improving my communication skills.**
 
