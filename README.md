@@ -16,7 +16,7 @@
 
 <div align="center">
 
-I’m currently working on **What and Where**
+I’m currently working on **Chatlight**
 
 I’m currently learning **Docker & n8n**
 
