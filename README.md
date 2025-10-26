@@ -18,7 +18,7 @@
 
 I’m currently working on **Chatlight**
 
-I’m currently learning **Docker & n8n**
+I’m currently learning **Docker**
 
 I’m looking to collaborate on **Innovative Hackathon Ideas.**
 
