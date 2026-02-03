@@ -26,9 +26,10 @@ I’m looking for help with **improving my communication skills.**
 
 How to reach me **vakaliyaraish7@gmail.com**
 
+LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
+
 **I enjoy chai more than coffee ☕.**
 
-LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -45,21 +46,18 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 
 ## Featured Projects
 
-### Chatlight
+### [Chatlight](https://chatlight-navy.vercel.app)
 A modern real-time chat application built with the MERN stack and Socket.io, focused on fast and seamless communication.  
-Live: **https://chatlight-navy.vercel.app**
 
 ---
 
-### NoPayCart
+### [NoPayCart](https://nopaycart.vercel.app)
 A product showcase web app where users can browse products, add them to a cart, and view totals — without real payments. Includes an admin panel to manage products easily.  
-Live: **https://nopaycart.vercel.app**
 
 ---
 
-### SecretSpace
+### [SecretSpace](https://secretspace.me)
 A privacy-first platform for anonymous confessions and one-time secret messages that disappear after being viewed.  
-Live: **https://secretspace.me**
 
 ###
 
