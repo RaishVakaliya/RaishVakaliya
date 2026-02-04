@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
 </p> -->
 
-<h3 align="center">FULL STACK Developer | From idea to Deployment</h3>
+<h3 align="left">FULL STACK Developer | From idea to Deployment</h3>
 
 <div align="center">
   <img src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg" 
