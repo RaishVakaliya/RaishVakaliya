@@ -61,9 +61,9 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
-</div>
+</div> -->
 
 ###
 
