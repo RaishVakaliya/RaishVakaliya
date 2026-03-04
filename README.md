@@ -18,7 +18,7 @@
 
 I’m currently working on **QuizSync**
 
-I’m currently learning **Docker**
+I’m currently learning **Next js**
 
 I’m looking to collaborate on **Innovative Hackathon Ideas.**
 
