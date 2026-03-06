@@ -44,8 +44,8 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 
 </div>
 <div align="center">
-![raish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)
 </div>
+![raish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)
 ## Featured Projects
 
 ### [Chatlight](https://chatlight-navy.vercel.app)
