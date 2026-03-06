@@ -44,7 +44,7 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 
 </div>
 <div align="center">
-![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)<br/>
+![raish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)
 </div>
 ## Featured Projects
 
