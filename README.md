@@ -43,7 +43,9 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 | <img src="https://avatars.githubusercontent.com/u/49538330?s=280&v=4" height="60" /> | <img src="https://resend.com/_next/image?url=%2Fstatic%2Fabout%2Ficon2.png&w=384&q=75&dpl=dpl_GakWEWo8TXbAJpDHAA1jnzjXkekY" height="50" /> | <img src="https://skillicons.dev/icons?i=postman" height="60" /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvOgtTYVL_w8kND07LcUN6LRUdS54THScfA&s" height="60"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" height="60"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfQ0Zah6zuQLAQWojHL0QM7InosE_X4RUdA&s" height="60"/> |  |
 
 </div>
-
+<div align="center">
+![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)<br/>
+</div>
 ## Featured Projects
 
 ### [Chatlight](https://chatlight-navy.vercel.app)
@@ -60,7 +62,7 @@ A product showcase web app where users can browse products, add them to a cart, 
 A privacy-first platform for anonymous confessions and one-time secret messages that disappear after being viewed.  
 
 ###
-![sunidhi014's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)<br/>
+
 <!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
 </div> -->
