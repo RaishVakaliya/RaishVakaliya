@@ -61,25 +61,23 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
 
 ###
 
-![raish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)
-
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
-</div>
+</div> -->
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
+<!-- <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph-dark.svg">
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
