@@ -43,9 +43,7 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 | <img src="https://avatars.githubusercontent.com/u/49538330?s=280&v=4" height="60" /> | <img src="https://resend.com/_next/image?url=%2Fstatic%2Fabout%2Ficon2.png&w=384&q=75&dpl=dpl_GakWEWo8TXbAJpDHAA1jnzjXkekY" height="50" /> | <img src="https://skillicons.dev/icons?i=postman" height="60" /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvOgtTYVL_w8kND07LcUN6LRUdS54THScfA&s" height="60"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" height="60"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfQ0Zah6zuQLAQWojHL0QM7InosE_X4RUdA&s" height="60"/> |  |
 
 </div>
-<div align="center">
-</div>
-![raish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)
+
 ## Featured Projects
 
 ### [Chatlight](https://chatlight-navy.vercel.app)
@@ -63,21 +61,25 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
 
 ###
 
-<!-- <div align="center">
+![raish's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaishVakaliya&theme=radical&hide_border=false)
+
+###
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
-</div> -->
+</div>
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div> -->
+</div>
 
 ###
 
-<!-- <picture> -->
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph-dark.svg"> -->
-  <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph.svg">
-</picture> -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph-dark.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
