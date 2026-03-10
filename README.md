@@ -77,6 +77,8 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
   <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaishVakaliya&show_icons=true&theme=radical)
+
 ###
 
 <!-- <picture>
