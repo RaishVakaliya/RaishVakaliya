@@ -9,6 +9,13 @@
 <h3 align="center">FULL STACK Developer || From idea to Deployment</h3>
 
 <div align="center">
+  <a href="https://raishvakaliya.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-raishvakaliya.me-409ba5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</div>
+<br>
+
+<div align="center">
   <img src="https://pbs.twimg.com/profile_images/1911300982194962433/BoalmN03_200x200.jpg" 
      height="170" 
      style="border-radius: 50%;" />
@@ -78,7 +85,9 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
 </div>
 
 <img src="https://ghchart.rshah.org/409ba5/RaishVakaliya" alt="raish's Github chart" />
-
+<div align="center">
+  <img src="https://ghchart.rshah.org/ac2ba5/RaishVakaliya" alt="raish's Github chart" />
+</div>
 ###
 
 <!-- <picture>
