@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://raishvakaliya.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-raishvakaliya.me-409ba5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-raishvakaliya.me-409ba5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" target="_blank" />
   </a>
 </div>
 <br>
@@ -84,7 +84,6 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
   <img src="https://streak-stats.demolab.com?user=RaishVakaliya&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
-<img src="https://ghchart.rshah.org/409ba5/RaishVakaliya" alt="raish's Github chart" />
 <div align="center">
   <img src="https://ghchart.rshah.org/ac2ba5/RaishVakaliya" alt="raish's Github chart" />
 </div>
@@ -94,5 +93,3 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph-dark.svg">
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph.svg">
 </picture> -->
-
-###
