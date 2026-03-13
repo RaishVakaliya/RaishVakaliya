@@ -27,7 +27,7 @@
 
 <div align="center">
 
-I’m currently working on **QuizSync**
+I’m currently working on **What & Where**
 
 I’m currently learning **Next js**
 
@@ -35,7 +35,7 @@ I’m looking to collaborate on **Innovative Hackathon Ideas.**
 
 I’m looking for help with **improving my communication skills.**
 
-How to reach me **vakaliyaraish7@gmail.com**
+How to reach me **raishvakaliya@gmail.com**
 
 LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 
