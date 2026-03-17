@@ -49,30 +49,11 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 | | | | | | | |
 |---|---|---|---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=html" height="60" /> | <img src="https://skillicons.dev/icons?i=css" height="60" /> | <img src="https://skillicons.dev/icons?i=js" height="60" /> | <img src="https://skillicons.dev/icons?i=ts" height="60" /> | <img src="https://skillicons.dev/icons?i=c" height="60" /> | <img src="https://skillicons.dev/icons?i=cpp" height="60" /> | <img src="https://skillicons.dev/icons?i=py" height="60" /> |
-| <img src="https://skillicons.dev/icons?i=react" height="60" /> | <img src="https://skillicons.dev/icons?i=vite" height="60" /> | <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> | <img src="https://skillicons.dev/icons?i=express" height="60" /> | <img src="https://skillicons.dev/icons?i=electron" height="60" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="60" /> | <img src="https://skillicons.dev/icons?i=git" height="60" /> |
-| <img src="https://pbs.twimg.com/profile_images/1886599096636694528/0Y8VYt94_400x400.png" height="50" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="60" /> | <img src="https://skillicons.dev/icons?i=firebase" height="60" /> | <img src="https://skillicons.dev/icons?i=supabase" height="60" /> | <img src="https://skillicons.dev/icons?i=netlify" height="60" /> | <img src="https://skillicons.dev/icons?i=vercel" height="60" /> | <img src="https://skillicons.dev/icons?i=github" height="60" /> |
+| <img src="https://skillicons.dev/icons?i=react" height="60" /> | <img src="https://skillicons.dev/icons?i=vite" height="60" /> | <img src="https://skillicons.dev/icons?i=nodejs" height="60" /> | <img src="https://skillicons.dev/icons?i=express" height="60" /> | <img src="https://skillicons.dev/icons?i=electron" height="60" /> | <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w240-h480-rw" height="60" /> | <img src="https://skillicons.dev/icons?i=git" height="60" /> |
+| <img src="https://pbs.twimg.com/profile_images/1886599096636694528/0Y8VYt94_400x400.png" height="50" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="60" /> | <img src="https://skillicons.dev/icons?i=firebase" height="60" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="60" /> | <img src="https://skillicons.dev/icons?i=netlify" height="60" /> | <img src="https://skillicons.dev/icons?i=vercel" height="60" /> | <img src="https://skillicons.dev/icons?i=github" height="60" /> |
 | <img src="https://avatars.githubusercontent.com/u/49538330?s=280&v=4" height="60" /> | <img src="https://resend.com/_next/image?url=%2Fstatic%2Fabout%2Ficon2.png&w=384&q=75&dpl=dpl_GakWEWo8TXbAJpDHAA1jnzjXkekY" height="50" /> | <img src="https://skillicons.dev/icons?i=postman" height="60" /> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvOgtTYVL_w8kND07LcUN6LRUdS54THScfA&s" height="60"/> | <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" height="60"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIfQ0Zah6zuQLAQWojHL0QM7InosE_X4RUdA&s" height="60"/> |  |
 
 </div>
-
-## Featured Projects
-
-### [Chatlight](https://chatlight-navy.vercel.app)
-A modern real-time chat application built with the MERN stack and Socket.io, focused on fast and seamless communication.  
-
----
-
-### [NoPayCart](https://nopaycart.vercel.app)
-A product showcase web app where users can browse products, add them to a cart, and view totals — without real payments. Includes an admin panel to manage products easily.  
-
----
-
-### [SecretSpace](https://secretspace.me)
-A privacy-first platform for anonymous confessions and one-time secret messages that disappear after being viewed.  
-
-###
-
-###
 
 <!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
@@ -87,7 +68,6 @@ A privacy-first platform for anonymous confessions and one-time secret messages 
 <div align="center">
   <img src="https://ghchart.rshah.org/ac2ba5/RaishVakaliya" alt="raish's Github chart" />
 </div>
-###
 
 <!-- <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph-dark.svg">
