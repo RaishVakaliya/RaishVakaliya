@@ -68,8 +68,3 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 <div align="center">
   <img src="https://ghchart.rshah.org/ac2ba5/RaishVakaliya" alt="raish's Github chart" />
 </div>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph-dark.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RaishVakaliya/RaishVakaliya/output/pacman-contribution-graph.svg">
-</picture>
