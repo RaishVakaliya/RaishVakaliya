@@ -29,7 +29,7 @@
 
 I’m currently working on **What & Where**
 
-I’m currently learning **Next js**
+I’m currently learning **Redis**
 
 I’m looking to collaborate on **Innovative Hackathon Ideas.**
 
