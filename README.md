@@ -27,7 +27,7 @@
 
 <div align="center">
 
-I’m currently working on **What & Where**
+I’m currently working on **BuildRate**
 
 I’m currently learning **Redis**
 
