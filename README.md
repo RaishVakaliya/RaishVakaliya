@@ -55,9 +55,9 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
-</div> -->
+</div>
 
 ###
 
