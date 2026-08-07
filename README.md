@@ -1,12 +1,14 @@
-<h1 align="center">
-  Hi there, I'm Raish Vakaliya 👋
-</h1>
+<h1 align="center">Hi, I'm Raish Vakaliya 👋</h1>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Lifelong+Learner;Tech+Explorer" alt="Typing SVG" />
-</p> -->
+<h3 align="center">
+Full Stack Developer • MERN • Next.js • React Native
+</h3>
 
-<h3 align="center">FULL STACK Developer || From idea to Deployment</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+</p>
+
+<h3 align="center">From idea to Deployment</h3>
 
 <div align="center">
   <a href="https://raishvakaliya.me" target="_blank">
@@ -37,7 +39,7 @@ I’m looking for help with **improving my communication skills.**
 
 How to reach me **raishvakaliya@gmail.com**
 
-LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
+LinkedIn: **https://www.linkedin.com/in/raish-vakaliya/**
 
 **I enjoy chai more than coffee ☕.**
 
@@ -55,10 +57,6 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raishvakaliya&show_icons=true&layout=compact&theme=dracula&locale=en&border_radius=5&hide_border=true&order=3" height="180" alt="top languages" />
-</div>
-
 ###
 
 <div align="center">
@@ -68,3 +66,10 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya-1ba1a42b5/**
 <div align="center">
   <img src="https://ghchart.rshah.org/ac2ba5/RaishVakaliya" alt="raish's Github chart" />
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RaishVakaliya&style=for-the-badge"/>
+</p>
+
+⭐ Thanks for visiting my profile!
+I'm always excited to build impactful projects and collaborate with developers around the world.
