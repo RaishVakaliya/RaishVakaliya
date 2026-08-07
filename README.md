@@ -8,7 +8,7 @@ Full Stack Developer • MERN • Next.js • React Native
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </p>
 
-<h3 align="center">From idea to Deployment</h3>
+<h3 align="center">From Idea to Deployment</h3>
 
 <div align="center">
   <a href="https://raishvakaliya.me" target="_blank">
@@ -35,7 +35,7 @@ I’m currently learning **Redis**
 
 I’m looking to collaborate on **Innovative Hackathon Ideas.**
 
-I’m looking for help with **improving my communication skills.**
+I'm continuously improving my communication skills.
 
 How to reach me **raishvakaliya@gmail.com**
 
