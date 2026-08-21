@@ -29,6 +29,8 @@ Full Stack Developer • MERN • Next.js • React Native
 
 <div align="center">
 
+<img alt="Header Image" src="https://media.tenor.com/OmVmqWbXjuYAAAAC/rainbow-line-color.gif" width="900" />
+
 I’m currently working on **BuildRate**
 
 I’m currently learning **Redis**
@@ -43,7 +45,9 @@ LinkedIn: **https://www.linkedin.com/in/raish-vakaliya/**
 
 **I enjoy chai more than coffee ☕.**
 
+<img alt="Header Image" src="https://media.tenor.com/OmVmqWbXjuYAAAAC/rainbow-line-color.gif" width="900" />
 </div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
